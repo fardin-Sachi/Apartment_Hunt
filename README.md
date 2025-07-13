@@ -16,6 +16,9 @@
 ## 📸 Preview
 
 [Apartment Hunt Preview](Apartment_Hunt.gif) <!-- Replace with an actual screenshot or remove this line if not available -->
+[Apartment Hunt Preview-1](Project_previews/preview_1.png)
+[Apartment Hunt Preview-2](Project_previews/preview_2.png)
+[Apartment Hunt Preview-3](Project_previews/preview_3.png)
 
 ## 🧰 Tech Stack
 
