@@ -19,6 +19,7 @@
 [Apartment Hunt Preview-1](Project_previews/preview_1.png)
 [Apartment Hunt Preview-2](Project_previews/preview_2.png)
 [Apartment Hunt Preview-3](Project_previews/preview_3.png)
+![Model](Project_previews/preview_1.png)
 
 ## 🧰 Tech Stack
 
