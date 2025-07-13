@@ -13,6 +13,10 @@
 
 --- -->
 
+## 📸 Preview
+
+[Apartment Hunt Preview](Apartment_Hunt.gif) <!-- Replace with an actual screenshot or remove this line if not available -->
+
 ## 🧰 Tech Stack
 
 - ⚛️ **Next.js** – React framework for server-side rendering and routing
