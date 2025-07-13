@@ -5,8 +5,9 @@ import Button from '../components/common/button'
 import houses from '../components/common/rentHouse'
 import { useParams } from 'next/navigation'
 
-export default function Details({img, price}) {
-  const {id} = useParams()
+export default function Details() { //{img, price}
+  // const {id} = useParams()
+  // console.log(id)
   return (
     <div className='mt-[3.33%] md:sm:grid md:sm:grid-flow-row md:sm:justify-items-center lg:block'>
         {/* Apartment Detail Section */}
@@ -14,7 +15,7 @@ export default function Details({img, price}) {
         
           {/* Apartment Images */}
         <div className='flex flex-col'>
-            <Image src={id.img}
+            <Image src={houses[0].imgPath}
                 alt='Family Apartment Three'
                 width={770}
                 height={376}
